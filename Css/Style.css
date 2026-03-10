@@ -1,0 +1,57 @@
+/* ---------- GLOBAL ---------- */
+body {
+  background: #fdf2c6;
+  font-family: Arial;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+img {
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  max-width: 100%;
+}
+
+/* ---------- TEXTOS ---------- */
+h1 {
+  font-family: "Times New Roman";
+  font-size: 50px;
+  color: cadetblue;
+  border: 4px solid cadetblue;
+  padding: 10px;
+}
+
+.Normal-text {
+  color: midnightblue;
+}
+
+/* ---------- LINKS ---------- */
+.link {
+  color: blue;
+}
+
+.link:hover {
+  color: rgb(0, 166, 255);
+}
+
+/* ---------- SECCIONES CON IMAGEN ---------- */
+.text-w-image {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.text-w-image figure {
+  margin: 0;
+}
+
+.text-w-image img {
+  max-width: 400;
+}
+
+/* ---------- FOOTER ---------- */
+footer {
+  margin-top: 40px;
+}
