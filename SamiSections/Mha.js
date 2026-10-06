@@ -51,7 +51,7 @@ const ocs = [
   },
   {
     id: "02",
-    nombre: "Saki",
+    nombre: "Saki ☀️",
     categoria: "mha",
     imagen: "../images/Sami/MhaOcs/Saki.webp",
 
