@@ -49,6 +49,33 @@ const ocs = [
       "por alguna extraña razón siempre tiene un gansito con el, ni puta idea de donde lo saca",
     ],
   },
+  {
+    id: "02",
+    nombre: "Saki",
+    categoria: "mha",
+    imagen: "../images/Sami/MhaOcs/Saki.webp",
+
+    genero: "Femenino",
+    nacionalidad: "Brasileña",
+
+    quirk: {
+      nombre: "Wishing Well",
+      descripcion:
+        "Saki solo tiene que decir unas 2 palabras para que algo se vuelva realidad. ¨Deseo/Espero que...¨ y con eso, su deseo o esperanza se vuelve realidad. No puede pedir algo extravagante como que el universo se reescriba, pero si puede volver varias cosas realidad. Descubrio su poder al decir ¨Deseo que no hayan clases mañana¨ y al final si se cancelaron, los deseos que se contradicen no pueden coexistir, uno se destruira solo, y cuando lo usa, tiene que esperar otros 5 minutos para que pueda hacer otro deseo.",
+    },
+
+    historia:
+      "Es la hermana pequeña de Aayan Aratiri, menor que el por 9 años. Nacio prematura y con varios defectos, pues debido a que su mamá fumaba, tomaba y consumia sustancias, Saki nacio con un ojo inservible, un labio hendido, daño cerebral de bajo grado y TDAH. Aún con todo eso, Saki esta convencida de que puede vivir una buena vida, es una niña alegre la cual esta llena de esperanza. Saki nunca conocio a su hermano bien, pues cuando ella tenia 2 años su hermana murio, sacrificandose para que Saki no sea la que muera, no se ha enterado de su hermano y su mama nunca piensa decirle. Saki eventualmente es rescatada de la casa y sacada de ahi a los 4 años, fue metida a un orfanato y despues trasladada a uno de Japón. A los 5 años es encontrada por Lilith pero Saki es la única (hasta ahora) que no se ha vuelto villana, pues por su edad no quieren meterla en la delincuencia.",
+
+    curiosidades: [
+      "Saki y Aayan estan destinadas a estar separadas. Saki y Aayan no pueden coexistir en un mismo universo.",
+      "A Saki le gustan mucho los animales, los bichos incluidos, le gusta agarrarlos y hacerse amiga de ellos, intenta hablarles tambien.",
+      "Sus colores favoritos son el amarillo y el azul, porque le recuerda a el sol y el cielo.",
+      "Le encanta el contacto físico, si la cargas una vez, cada que te vea te va a pedir que la cargues, siempre, sin importar que.",
+      "Es la menor de todos los descendientes, teniendo 7 añitos.",
+      "Se comio 4 gomitas con melatonina una vez y se durmio todo el dia, cada que la intentaban despertar los pateaba.",
+    ],
+  },
 ];
 
 // Buscamos el elemento <main> de Mha.html para insertar las tarjetas dentro.
